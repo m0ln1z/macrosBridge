@@ -46,7 +46,7 @@ cl main.cpp /Fe:main.exe
    ./main.exe
    ```
 
-2. Enter password: `123123`
+2. Enter password: `123456`
 
 3. Select building type (1-4)
 
