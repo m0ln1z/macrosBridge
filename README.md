@@ -83,7 +83,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Neki_play** - Creator and main developer
+**m0ln1z** - Creator and main developer
 
 ## 🤝 Contributing
 
